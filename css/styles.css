@@ -12,8 +12,6 @@ h2{
     font-family: 'Poppins', sans-serif;
     font-size: 36;
 }
-
-
 a{
     color: white;
     text-decoration: none;
@@ -38,11 +36,9 @@ span{
 .color-3{
     background-color: #d1cadd;
 }
-
 .flex{
     display: flex;
 }
-
 .button{
     background-color: #FF5959;
     color: white;
@@ -52,12 +48,10 @@ span{
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     cursor: pointer;
-    
 }
 button:hover {
     background-color: #f04b4b;
-  }
-  
+  } 
 #container{
     width: 970px;
     margin: 0 auto
@@ -66,38 +60,32 @@ button:hover {
     display: flex;
     margin: 50px 0;
     height: 400px;
-
 }
 .banner_area{
     margin-top: 100px;
     padding-right: 125px;
 }
 .banner_area_title{
-    border-left: 4px solid #FF5959;
-    
+    border-left: 4px solid #FF5959;  
 }
 .banner_area h1{
     padding-left: 10px;
     font-size: 60px;
     font-family: 'Yeseva One', cursive;
 }
-
 .banner_area_right img{
     height: 400px;
     float:right;
 }
-
 .second_section{
     margin: 110px 0 76px 0;
 }
-
 .second_section h1{
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-weight: bold;
 }
-
 .section_features{
     margin: 30px 0;
 }
@@ -111,33 +99,25 @@ button:hover {
     font-size: 16px;
     color: #424242;
 }
-
 .slogan img{
     height: 100px;
 }
-
-
 .third_section{
     margin-bottom: 100px;
 }
-
 .third_section img{
     height: 400px;
     margin-right: 40px;
 }
-
 .side_element{
     padding: 20px 0;
     margin: 3px;
 }
-
 .side_element h1{
     font-size: 36px;
     font-family: 'Poppins', sans-serif;
     color: #333333;
 }
-
-
 .fourth_section {
     margin-top: 70px;
 }
@@ -145,35 +125,28 @@ button:hover {
     height: 400px;
     margin-left: 40px
 }
-
 .fifth_section{
     text-align: center;
     margin: 120px 0 130px 0;
 }
-
 .fifth_section h1{
    font-family: 'Poppins', sans-serif;
    font-size: 48px;
 }
-
-
 .footer{
     background-color: #10131f;
     text-align: center;
     padding: 25px;
     color: #D9DBE1;
 }
-
 footer h1{
     font-size: 36px;
     font-family: 'Lobster', cursive;
 }
-
 .footer p{
     font-size: 14px;
     color: #D9DBE1;
     font-family: 'Manrope', sans-serif;
-
 }
 .contact_form{
     margin: 0 100px;
@@ -191,7 +164,6 @@ input, select, textarea {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-
 }
 
 
