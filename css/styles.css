@@ -68,21 +68,21 @@ button:hover {
     height: 400px;
 
 }
-.baner_area{
+.banner_area{
     margin-top: 100px;
     padding-right: 125px;
 }
-.baner_area_title{
+.banner_area_title{
     border-left: 4px solid #FF5959;
     
 }
-.baner_area h1{
+.banner_area h1{
     padding-left: 10px;
     font-size: 60px;
     font-family: 'Yeseva One', cursive;
 }
 
-.baner_area_right img{
+.banner_area_right img{
     height: 400px;
     float:right;
 }
